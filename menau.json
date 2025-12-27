@@ -1,0 +1,10 @@
+{
+  "headline": "My MSX App",
+  "menu": [
+    {
+      "icon": "apps",
+      "label": "Main",
+      "data": "https://your-site.github.io/msx/main.json"
+    }
+  ]
+}
