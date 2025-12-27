@@ -1,1 +1,57 @@
-
+{
+  "type": "pages",
+  "headline": "Tools",
+  "template": {
+    "type": "default",
+    "layout": "0,0,2,2",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "titleFooter": "HDMI 1",
+      "image": "https://itsrealm12c.github.io/owalnew/hdmi1.png",
+      "action": "link:https://itsrealm12c.github.io/lginput/"
+    },
+    {
+      "titleFooter": "HDMI 2",
+      "image": "https://itsrealm12c.github.io/owalnew/hdmi2.png",
+      "action": "link:https://itsrealm12c.github.io/lginput/hdmi2"
+    },
+    {
+      "titleFooter": "HDMI 3",
+      "image": "https://itsrealm12c.github.io/owalnew/hdmi3.png",
+      "action": "link:https://itsrealm12c.github.io/lginput/hdmi3"
+    },
+    {
+      "titleFooter": "Live TV",
+      "image": "https://itsrealm12c.github.io/owalnew/tv.png",
+      "action": "video:broadcast:current"
+    },
+    {
+      "titleFooter": "AV 1",
+      "image": "https://itsrealm12c.github.io/owalnew/av.png",
+      "action": "link:placeholder"
+    },
+    {
+      "titleFooter": "AV 2",
+      "image": "https://itsrealm12c.github.io/owalnew/av.png",
+      "action": "link:placeholder"
+    },
+    {
+      "titleFooter": "COMP 1",
+      "image": "https://itsrealm12c.github.io/owalnew/comp.png",
+      "action": "link:placeholder"
+    },
+    {
+      "titleFooter": "SCART 1",
+      "image": "https://itsrealm12c.github.io/owalnew/scart.png",
+      "action": "link:placeholder"
+    },
+    {
+      "titleFooter": "RGB",
+      "image": "https://itsrealm12c.github.io/owalnew/rgb.png",
+      "action": "link:placeholder"
+    }
+  ]
+}
