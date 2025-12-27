@@ -7,41 +7,126 @@
     "color": "msx-glass",
     "imageFiller": "cover"
   },
-  "items": [
+  "tabs": [
     {
-      "titleFooter": "YouTube",
-      "image": "https://itsrealm12c.github.io/owalnew/youtube.leanback.png",
-      "action": "link:https://www.youtube.com/tv?env_forceFullAnimation=1&env_enableVoice=1&env_enableWebSpeech=0"
+      "title": "LG Content Store apps",
+      "items": [
+        {
+          "titleFooter": "YouTube",
+          "image": "https://itsrealm12c.github.io/owalnew/youtube.leanback.png",
+          "action": "link:https://www.youtube.com/tv?env_forceFullAnimation=1&env_enableVoice=1&env_enableWebSpeech=0"
+        },
+        {
+          "titleFooter": "YouTube Kids",
+          "image": "https://itsrealm12c.github.io/owalnew/ytkids.png",
+          "action": "link:https://www.youtube.com/tv/kids"
+        },
+        {
+          "titleFooter": "Twitch",
+          "image": "https://itsrealm12c.github.io/owalnew/twitch.png",
+          "action": "link:https://webos.tv.twitch.tv/"
+        },
+        {
+          "titleFooter": "TikTok TV",
+          "image": "https://itsrealm12c.github.io/owalnew/tiktok.png",
+          "action": "link:https://tv.tiktok.com/webos"
+        },
+        {
+          "titleFooter": "Free Games by PlayWorks",
+          "image": "https://itsrealm12c.github.io/owalnew/playworks.gif",
+          "action": "link:https://service.play.works/service/apps/portal_vizio/index.html"
+        },
+        {
+          "titleFooter": "AccuWeather",
+          "image": "https://itsrealm12c.github.io/owalnew/accuweather.gif",
+          "action": "link:https://lgsmarttvapp.accuweather.com/widget/lgsmarttvapp/webcontent/webos/index.html"
+        },
+        {
+          "titleFooter": "myTuner Radio",
+          "image": "https://itsrealm12c.github.io/owalnew/radio.png",
+          "action": "link:https://devices.mytuner.mobi/"
+        },
+        {
+          "titleFooter": "TV Games",
+          "image": "https://itsrealm12c.github.io/owalnew/tvgames.png",
+          "action": "link:https://apps.tvgam.es/tv_games/vizio_portal/production/portal/index.html?env_forceFullAnimation=1"
+        },
+        {
+          "titleFooter": "Couchplay Games",
+          "image": "https://itsrealm12c.github.io/owalnew/spielecenter.tv.itsmy.png",
+          "action": "link:https://lgapp.itsmy.tv/spielecenter"
+        },
+        {
+          "titleFooter": "Spotify",
+          "image": "https://itsrealm12c.github.io/owalnew/spotify-beehive.png",
+          "action": "link:https://api-partner.spotify.com/tvapp?platform=webos"
+        }
+      ]
     },
     {
-      "titleFooter": "YouTube Kids",
-      "image": "https://itsrealm12c.github.io/owalnew/ytkids.png",
-      "action": "link:https://www.youtube.com/tv/kids"
+      "title": "Homebrew Channel apps",
+      "items": [
+        {
+          "titleFooter": "Wikipedia",
+          "image": "https://itsrealm12c.github.io/owalnew/wikipedia.png",
+          "action": "link:http://4181361297.am-live.fxmconnect.com/#app"
+        },
+        {
+          "titleFooter": "3D Pinball – Space Cadet",
+          "image": "https://repo.webosbrew.org/apps/icons/com.github.k4zmu2a.space-cadet-pinball.png",
+          "action": "link:https://emupedia.net/emupedia-game-space-cadet-pinball/"
+        },
+        {
+          "titleFooter": "Lampa",
+          "image": "https://itsrealm12c.github.io/owalnew/lampa.png",
+          "action": "link:http://lampa.mx/"
+        },
+        {
+          "titleFooter": "ForkNewBeta",
+          "image": "https://itsrealm12c.github.io/owalnew/forknewbeta.png",
+          "action": "link:http://browser.appinfo.su/"
+        },
+        {
+          "titleFooter": "Ott-play",
+          "image": "https://itsrealm12c.github.io/owalnew/Ottplay.png",
+          "action": "link:http://ott-play.com/f/"
+        },
+        {
+          "titleFooter": "Ott-play FOSS",
+          "image": "https://itsrealm12c.github.io/owalnew/ottplayfoss.png",
+          "action": "link:http://ottp.eu.org/f/"
+        },
+        {
+          "titleFooter": "DStore 1",
+          "image": "https://itsrealm12c.github.io/owalnew/dstore.png",
+          "action": "link:http://z91926l2.beget.tech/tv/index.php"
+        },
+        {
+          "titleFooter": "DStore 2",
+          "image": "https://itsrealm12c.github.io/owalnew/dstore.png",
+          "action": "link:http://x920083t.beget.tech/tv/indexv.php"
+        },
+        {
+          "titleFooter": "DStore VIP",
+          "image": "https://itsrealm12c.github.io/owalnew/dstore.png",
+          "action": "link:http://salita.pluton-host.ru/tv/vip.php"
+        },
+        {
+          "titleFooter": "LG Channels",
+          "image": "https://itsrealm12c.github.io/owalnew/lgc.png",
+          "action": "link:https://lgchp-app.megogo.net/#init"
+        }
+      ]
     },
     {
-      "titleFooter": "Twitch",
-      "image": "https://itsrealm12c.github.io/owalnew/twitch.png",
-      "action": "link:https://webos.tv.twitch.tv/"
-    },
-    {
-      "titleFooter": "TikTok TV",
-      "image": "https://itsrealm12c.github.io/owalnew/tiktok.png",
-      "action": "link:https://tv.tiktok.com/webos"
-    },
-    {
-      "titleFooter": "Free Games by PlayWorks",
-      "image": "https://itsrealm12c.github.io/owalnew/playworks.gif",
-      "action": "link:https://service.play.works/service/apps/portal_vizio/index.html"
-    },
-    {
-      "titleFooter": "AccuWeather",
-      "image": "https://itsrealm12c.github.io/owalnew/accuweather.gif",
-      "action": "link:https://lgsmarttvapp.accuweather.com/widget/lgsmarttvapp/webcontent/webos/index.html"
-    },
-    {
-      "titleFooter": "myTuner Radio",
-      "image": "https://itsrealm12c.github.io/owalnew/radio.png",
-      "action": "link:https://devices.mytuner.mobi/"
+      "title": "Placeholder",
+      "items": [
+        {
+          "titleFooter": "Coming Soon",
+          "image": "https://itsrealm12c.github.io/owalnew/example.png",
+          "action": "link:https://example.com"
+        }
+      ]
     }
   ]
 }
