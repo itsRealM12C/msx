@@ -11,5 +11,11 @@
       "label": "Homebrew Channel Apps",
       "data": "https://itsrealm12c.github.io/msx/hc.json"
     }
+    },
+    {
+      "icon": "tools",
+      "label": "Tools",
+      "data": "https://itsrealm12c.github.io/msx/tools.json"
+    }
   ]
 }
