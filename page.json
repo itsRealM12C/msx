@@ -1,17 +1,43 @@
 {
-    "pages": [
-        {
-            "items": [
-                {
-                    "type": "default",
-                    "layout": "0,0,12,6",
-                    "color": "msx-glass",
-                    "headline": "Example stuff",
-                    "text": [
-                        "hi there"
-                    ]
-                }
-            ]
+  "type": "pages",
+  "headline": "LG TV Controls",
+  "template": {
+    "type": "default",
+    "layout": "0,0,2,2",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "titleFooter": "Play Trailer",
+      "image": "https://media.w3.org/2010/05/sintel/poster.png",
+      "action": "request:com.webos.applicationManager/launch",
+      "params": {
+        "id": "com.webos.app.photovideo",
+        "params": {
+          "payload": [
+            {
+              "fullPath": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+              "artist": "",
+              "subtitle": "",
+              "dlnaInfo": {
+                "flagVal": 4096,
+                "cleartextSize": "-1",
+                "contentLength": "-1",
+                "opVal": 1,
+                "protocolInfo": "http-get:*:video/x-matroska:DLNA.ORG_OP=01;DLNA.ORG_CI=0;DLNA.ORG_FLAGS=01700000000000000000000000000000",
+                "duration": 0
+              },
+              "mediaType": "VIDEO",
+              "thumbnail": "",
+              "deviceType": "DMR",
+              "album": "",
+              "fileName": "trailer",
+              "lastPlayPosition": -1
+            }
+          ]
         }
-    ]
+      }
+    }
+  ]
 }
