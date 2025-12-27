@@ -3,7 +3,7 @@
   "headline": "Tools",
   "template": {
     "type": "default",
-    "layout": "0,0,2,2",
+    "layout": "0,0,4,4",
     "color": "msx-glass",
     "imageFiller": "cover"
   },
@@ -57,6 +57,27 @@
       "titleFooter": "RGB",
       "image": "https://itsrealm12c.github.io/owalnew/rgb.png",
       "action": "info:coming soon"
+    },
+    {
+      "title": "",
+      "headline": "ezAdjust",
+      "image": "",
+      "text": "EZ Adjust menu",
+      "action": "link:https://webosappclub.github.io/msx/ezadjust/ezadjust.html"
+    },
+    {
+      "title": "",
+      "headline": "inStart",
+      "image": "",
+      "text": "Instart menu",
+      "action": "link:https://webosappclub.github.io/msx/instart/instart.html"
+    },
+    {
+      "title": "",
+      "headline": "inStop",
+      "image": "",
+      "text": "Factory Reset",
+      "action": "warning:When you enter the password \"0413\", it will factory reset your TV."
     }
   ]
 }
