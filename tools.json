@@ -24,6 +24,11 @@
       "action": "link:https://itsrealm12c.github.io/lginput/hdmi3"
     },
     {
+      "titleFooter": "HDMI 4",
+      "image": "https://itsrealm12c.github.io/owalnew/hdmi4.png",
+      "action": "link:https://itsrealm12c.github.io/lginput/hdmi4"
+    },
+    {
       "titleFooter": "Live TV",
       "image": "https://itsrealm12c.github.io/owalnew/tv.png",
       "action": "video:atv://cable:1/dvb/1"
@@ -36,22 +41,22 @@
     {
       "titleFooter": "AV 2",
       "image": "https://itsrealm12c.github.io/owalnew/av.png",
-      "action": "link:placeholder"
+      "action": "info:coming soon"
     },
     {
       "titleFooter": "COMP 1",
       "image": "https://itsrealm12c.github.io/owalnew/comp.png",
-      "action": "link:placeholder"
+      "action": "info:coming soon"
     },
     {
       "titleFooter": "SCART 1",
       "image": "https://itsrealm12c.github.io/owalnew/scart.png",
-      "action": "link:placeholder"
+      "action": "info:coming soon"
     },
     {
       "titleFooter": "RGB",
       "image": "https://itsrealm12c.github.io/owalnew/rgb.png",
-      "action": "link:placeholder"
+      "action": "info:coming soon"
     }
   ]
 }
