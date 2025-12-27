@@ -1,8 +1,11 @@
 {
-  "type": "pages",
-  "headline": "Main Page",
-  "items": [
-    { "title": "Placeholder 1", "action": "message:Hello" },
-    { "title": "Placeholder 2", "action": "message:World" }
-  ]
+    "headline": "Test example",
+    "menu": [
+        {
+            "icon": "info",
+            "label": "Example",
+            "data": "https://itsrealm12c.github.io/msxsp/page.json"
+        }
+        
+    ]
 }
