@@ -1,6 +1,6 @@
 {
   "type": "pages",
-  "headline": "LG TV Controls",
+  "headline": "Online webOS App Launcher",
   "template": {
     "type": "default",
     "layout": "0,0,2,2",
@@ -9,9 +9,39 @@
   },
   "items": [
     {
-      "titleFooter": "Play Trailer",
-      "image": "https://media.w3.org/2010/05/sintel/poster.png",
-      "action": "link:https://itsrealm12c.github.io/wal/test2"
+      "titleFooter": "YouTube",
+      "image": "https://itsrealm12c.github.io/owalnew/youtube.leanback.png",
+      "action": "link:https://www.youtube.com/tv?env_forceFullAnimation=1&env_enableVoice=1&env_enableWebSpeech=0"
+    },
+    {
+      "titleFooter": "YouTube Kids",
+      "image": "https://itsrealm12c.github.io/owalnew/ytkids.png",
+      "action": "link:https://www.youtube.com/tv/kids"
+    },
+    {
+      "titleFooter": "Twitch",
+      "image": "https://itsrealm12c.github.io/owalnew/twitch.png",
+      "action": "link:https://webos.tv.twitch.tv/"
+    },
+    {
+      "titleFooter": "TikTok TV",
+      "image": "https://itsrealm12c.github.io/owalnew/tiktok.png",
+      "action": "link:https://tv.tiktok.com/webos"
+    },
+    {
+      "titleFooter": "Free Games by PlayWorks",
+      "image": "https://itsrealm12c.github.io/owalnew/playworks.gif",
+      "action": "link:https://service.play.works/service/apps/portal_vizio/index.html"
+    },
+    {
+      "titleFooter": "AccuWeather",
+      "image": "https://itsrealm12c.github.io/owalnew/accuweather.gif",
+      "action": "link:https://lgsmarttvapp.accuweather.com/widget/lgsmarttvapp/webcontent/webos/index.html"
+    },
+    {
+      "titleFooter": "myTuner Radio",
+      "image": "https://itsrealm12c.github.io/owalnew/radio.png",
+      "action": "link:https://devices.mytuner.mobi/"
     }
   ]
 }
