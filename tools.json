@@ -56,7 +56,7 @@
     {
       "titleFooter": "Debug Settings",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4wVI15GeiitOictf02BZoa-HjZsh8-WYBCJtBUme1A&s=10g",
-      "action": "link:https://debug-settings--itsrealm12c.on.websim.com/?v=83"
+      "action": "link:https://debug-settings--itsrealm12c.on.websim.com/?v=222"
     },
     {
       "title": "",
@@ -77,7 +77,7 @@
       "headline": "inStop",
       "image": "",
       "text": "Factory Reset",
-      "action": "warn:When you enter the password, it will factory reset your TV."
+      "action": "warn:Attention! When you enter the password, it will factory reset your TV."
     }
   ]
 }
