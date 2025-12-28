@@ -1,5 +1,8 @@
 {
-  "headline": "Online webOS App Launcher",
+  "headline": "webOS Tools by itsRealM12C",
+  "transparent": 2,
+  "style": "overlay",
+    "background": "http://msx.benzac.de/media/wallpaper1.jpg",
   "menu": [
     {
       "icon": "store",
@@ -13,7 +16,7 @@
     },
     
     {
-      "icon": "tools",
+      "icon": "build",
       "label": "Tools",
       "data": "https://itsrealm12c.github.io/msx/tools.json"
     }
