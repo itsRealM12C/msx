@@ -56,7 +56,7 @@
     {
       "titleFooter": "RGB",
       "image": "https://itsrealm12c.github.io/owalnew/rgb.png",
-      "action": "info:coming soon"
+      "action": "video:rtsp://192.168.0.18:554/h264/ch1/main/av_stream"
     },
     {
       "title": "",
