@@ -72,6 +72,16 @@
       "titleHeader": "Apps (webOS 11)",
       "image": "https://itsrealm12c.github.io/owalnew/store.png",
       "action": "link:https://kr.app.lgwebostv.com/discovery_2026/discovery.html"
-    }
+    },
+    {
+    "titleFooter": "webOS (Local)",
+      "image": "https://itsrealm12c.github.io/owalnew/store.png",
+      "action": "link:itsrealm12c.github.io/msx/cs.html"
+    },
+    {
+    "titleFooter": "webOS 1 (Local)",
+      "image": "https://itsrealm12c.github.io/owalnew/webOS1.png",
+      "action": "link:itsrealm12c.github.io/msx/oldls.html"
+    },
   ]
 }
