@@ -1,6 +1,41 @@
 <!DOCTYPE html>
 <html>
-<script>
-  window.location.href = "https://msx.benzac.de/?start=menu:https%3A%2F%2Fitsrealm12c.github.io%2Fmsx%2Fmenu.json";
-</script>
+<head>
+    <title>MSX</title>
+    <meta name="viewport" charset="UTF-8" content="width=device-width, initial-scale=1, user-scalable=yes, minimum-scale=1.0">
+    <!-- webOS TV libraries -->
+    <script src="webOSTV.js" charset="utf-8"></script>
+    <script src="webOSTV-dev.js" charset="utf-8"></script>
+</head>
+<body>
+    <script type="text/javascript">
+        (function() {
+            // Check for webOS in the User Agent string
+            var userAgent = navigator.userAgent;
+            var isWebOS = /Web0S|webOS/i.test(userAgent);
+
+            if (isWebOS) {
+                // Logic for webOS devices
+                webOS.service.request("luna://com.webos.applicationManager", {
+                    method: "launch",
+                    parameters: { 
+                        "id": "com.webos.app.googleassistant", 
+                        "params": { 
+                            "target": "https://msx.benzac.de/?start=menu:https%3A%2F%2Fitsrealm12c.github.io%2Fmsx%2Fmenu.json"
+                        } 
+                    },
+                    onSuccess: function (inResponse) {
+                        console.log("The app is launched");
+                    },
+                    onFailure: function (inError) {
+                        console.log("Failed to launch: [" + inError.errorCode + "]: " + inError.errorText);
+                    }
+                });
+            } else {
+                // Logic for Android, iOS, and Computers
+                window.location.href = "https://msx.benzac.de/?start=menu:https%3A%2F%2Fitsrealm12c.github.io%2Fmsx%2Fmenu.json";
+            }
+        })();
+    </script>
+</body>
 </html>
