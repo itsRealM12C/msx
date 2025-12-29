@@ -29,7 +29,7 @@
       "extensionIcon": "keyboard-arrow-right"
     },
     {
-       "icon" "build",
+       "icon": "store",
        "label": "App Store Versions",
        "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/lcs.json",
        "extensionIcon": "keyboard-arrow-right"
