@@ -19,30 +19,10 @@
   
        var request = webOS.service.request("luna://com.webos.applicationManager", {
            method: "launch",
-           parameters: <!DOCTYPE html>
-<html>
-<head>
-  <title></title>
-  <meta name="viewport" charset="UTF-8" content="width=device-width, initial-scale=1, user-scalable=yes, minimum-scale=1.0">
-  
-  <meta name="description" content="">
-  <meta name="keywords" content="">
-  <meta property="og:title" content="">
-  <meta property="og:description" content="">
-  <meta property="og:image" content="">
-  <meta name="twitter:card" content="summary_large_image">
-</head>
 
-<body>
-  	<script src="webOSTV.js" charset="utf-8"></script>
-	<script src="webOSTV-dev.js" charset="utf-8"></script>
-  <script>
-  
-       var request = webOS.service.request("luna://com.webos.applicationManager", {
-           method: "launch",
            parameters: { 
                         "id": "com.webos.app.googleassistant", 
-                        "params": { "target": "file:///mnt/otncabi/usr/palm/applications/com.webos.app.igallery/index.multi.html"}
+                        "params": { "target": "file:///usr/palm/applications/com.webos.app.igallery/index.multi.html"}
 			},
            onSuccess: function (inResponse) {
                console.log("The app is launched");
