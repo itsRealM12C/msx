@@ -10,12 +10,12 @@
   "items": [
 
         {
-    "titleFooter": "webOS 4 (Local + Another Method)",
+      "titleFooter": "Old Web Browser",
       "image": "https://raw.githubusercontent.com/itsRealM12C/owalnew/refs/heads/main/webbrowser_icon.png",
-      "action": "link:itsrealm12c.github.io/msx/oldb.html"
-        },
+      "action": "link:https://itsrealm12c.github.io/msx/oldb.html"
+    },
     {
-    "titleFooter": "webOS (Local + Another Method)",
+    "titleFooter": "New Web Browser",
       "image": "https://raw.githubusercontent.com/itsRealM12C/owalnew/refs/heads/main/webbrowser_large_icon.png",
       "action": "link:itsrealm12c.github.io/msx/browser.html"
     }
