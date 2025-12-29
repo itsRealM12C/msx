@@ -52,7 +52,7 @@
        {
        "icon": "apps",
        "label": "Web Browser",
-       "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/idk.json",
+       "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/web.json",
        "extensionIcon": "keyboard-arrow-right"
        }
   ]
