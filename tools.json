@@ -56,7 +56,12 @@
     {
       "titleFooter": "Debug Settings",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4wVI15GeiitOictf02BZoa-HjZsh8-WYBCJtBUme1A&s=10g",
-      "action": "link:https://debug-settings--itsrealm12c.on.websim.com/?v=227"
+      "action": "link:https://debug-settings--itsrealm12c.on.websim.com/?v=241"
+    },
+    {
+      "titleFooter": "root file",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4wVI15GeiitOictf02BZoa-HjZsh8-WYBCJtBUme1A&s=10g",
+      "action": "link:file:///"
     },
     {
       "title": "",
@@ -69,8 +74,13 @@
       "title": "",
       "headline": "inStart",
       "image": "",
-      "text": "Instart menu",
+      "text": "",
       "action": "link:https://webosappclub.github.io/msx/instart/instart.html"
+    },
+    {
+      "titleFooter": "/media/ path",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4wVI15GeiitOictf02BZoa-HjZsh8-WYBCJtBUme1A&s=10g",
+      "action": "link:file:///media/"
     },
     {
       "title": "",
