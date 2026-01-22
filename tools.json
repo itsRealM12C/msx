@@ -59,9 +59,9 @@
       "action": "link:https://debug-settings--itsrealm12c.on.websim.com/?v=241"
     },
     {
-      "titleFooter": "root file",
+      "titleFooter": "example photo",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4wVI15GeiitOictf02BZoa-HjZsh8-WYBCJtBUme1A&s=10g",
-      "action": "link:file:///"
+      "action": "link:file:///usr/palm/applications/com.webos.app.photovideo/assets/samplePhoto/Austria%20Hallstatt.jpg"
     },
     {
       "title": "",
@@ -78,9 +78,9 @@
       "action": "link:https://webosappclub.github.io/msx/instart/instart.html"
     },
     {
-      "titleFooter": "/media/ path",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4wVI15GeiitOictf02BZoa-HjZsh8-WYBCJtBUme1A&s=10g",
-      "action": "link:file:///media/"
+      "titleFooter": "Homebrew Channel",
+      "image": "https://repo.webosbrew.org/theme/images/icon80.png",
+      "action": "link:file:///media/developer/apps/usr/palm/applications/org.webosbrew.hbchannel/index.html"
     },
     {
       "title": "",
