@@ -80,7 +80,7 @@
     {
       "titleFooter": "Homebrew Channel",
       "image": "https://repo.webosbrew.org/theme/images/icon80.png",
-      "action": "link:file:///media/developer/apps/usr/palm/applications/org.webosbrew.hbchannel/index.html"
+      "action": "link:https://itsrealm12c.github.io/hc/index.html"
     },
     {
       "title": "",
