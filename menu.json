@@ -33,6 +33,12 @@
       "extensionIcon": "keyboard-arrow-right"
     },
     {
+      "icon": "videogame-asset",
+      "label": "Games",
+      "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/game.json",
+      "extensionIcon": "keyboard-arrow-right"
+    }
+    {
       "type": "separator",
       "label": "{col:#18aa9c}System app versions",
       "lineColor": "#18aa9c"
@@ -63,14 +69,8 @@
     },
     {
       "type": "separator",
-      "label": "{col:#18aa9c}Games",
+      "label": "{col:#18aa9c}",
       "lineColor": "#18aa9c"
-    },
-    {
-      "icon": "videogame-asset",
-      "label": "Games",
-      "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/game.json",
-      "extensionIcon": "keyboard-arrow-right"
-    }
+    },     
   ]
 }
