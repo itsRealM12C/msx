@@ -59,7 +59,7 @@
       "action": "link:https://debug-settings--itsrealm12c.on.websim.com/?v=241"
     },
     {
-      "titleFooter": "example photo",
+      "titleFooter": "Example photo",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4wVI15GeiitOictf02BZoa-HjZsh8-WYBCJtBUme1A&s=10g",
       "action": "link:file:///usr/palm/applications/com.webos.app.photovideo/assets/samplePhoto/Austria%20Hallstatt.jpg"
     },
@@ -80,7 +80,7 @@
     {
       "titleFooter": "Homebrew Channel",
       "image": "https://repo.webosbrew.org/theme/images/icon80.png",
-      "action": "link:https://itsrealm12c.github.io/hc/index.html"
+      "action": "link:https://itsrealm12c.github.io/hbc/index.html"
     },
     {
       "title": "",
