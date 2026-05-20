@@ -22,6 +22,11 @@
       "titleFooter": "Doom",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Doom_logo.png",
       "action": "link:https://mattiasgustavsson.com/wasm/doom-crt/"
+    },
+    {
+      "titleFooter": "Baldi's Basics Classic",
+      "image": "https://cdn2.steamgriddb.com/icon/d23a0a2880738ad75a04b1c9dc7d9b73/32/256x256.png",
+      "action": "link:https://storage.boolonx.com/baldiweb/index.html"
     }  
   ]
 }
