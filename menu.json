@@ -3,6 +3,7 @@
   "transparent": 2,
   "style": "overlay",
   "background": "https://github.com/itsRealM12C/msx/blob/main/km_ba_360p_15f_20260129_224548.gif?raw=true",
+  "validateLinks": false,
   "menu": [
     {
       "type": "separator",
