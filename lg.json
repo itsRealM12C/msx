@@ -122,6 +122,11 @@
       "titleFooter": "SmartOne IPTV",
       "image": "https://itsrealm12c.github.io/owalnew/smartoneiptv.gif",
       "action": "link:https://netcast.smartone-iptv.com/"
+    },
+    {
+      "titleFooter": "MédiaKlikk",
+      "image": "98443760666262146_38563392_192x192_webos.png",
+      "action": "link:https://smart-tv-prod.mtva-mobil.appsters.me/v0.1.0/auth/start"
     }
   ]
 }
