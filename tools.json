@@ -88,8 +88,13 @@
       "image": "",
       "text": "Factory Reset",
       "action": "warn:Attention! When you enter the password, it will factory reset your TV."
-    }
-    
-  
+    },
+    {
+      "title": "",
+      "headline": "OWAL",
+      "image": "kmc_20260706_174417.png",
+      "text": "",
+      "action": "link:https://itsrealm12c.github.io/owalnew/owal.html."
+    } 
   ]
 }
