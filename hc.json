@@ -62,6 +62,11 @@
       "titleFooter": "LG Channels",
       "image": "https://itsrealm12c.github.io/owalnew/lgc.png",
       "action": "link:https://lgchp-app.megogo.net/#init"
+    },
+    {
+      "titleFooter": "RetroArch",
+      "image": "https://itsrealm12c.github.io/retroarchweb/media/retroarch.ico",
+      "action": "link:https://itsrealm12c.github.io/retroarchweb/"
     }
   ]
 }
