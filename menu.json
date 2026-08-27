@@ -75,12 +75,6 @@
       "extensionIcon": "keyboard-arrow-right"
     },
     {
-      "icon": "settings",
-      "label": "Example",
-      "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/example.json",
-      "extensionIcon": "keyboard-arrow-right"
-    },
-    {
       "type": "separator",
       "label": "{col:#18aa9c}",
       "lineColor": "#18aa9c"
