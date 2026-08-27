@@ -1,0 +1,25 @@
+{
+  "type": "pages",
+  "headline": "System",
+  "template": {
+    "type": "default",
+    "layout": "0,0,2,2",
+    "color": "msx-black-soft",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "type": "button",
+      "layout": "3,1,6,2",
+      "icon": "settings",
+      "label": "Open Settings",
+      "color": "msx-glass",
+      "action": "system:lg:launch:com.palm.app.settings"
+    },
+    {
+      "type": "space",
+      "layout": "0,0,12,1",
+      "label": "Opens the native LG webOS Settings app"
+    }
+  ]
+}
